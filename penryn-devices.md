@@ -21,6 +21,7 @@ iOS 7.0.3 | 2013
 iOS 7.1.1 | 2013
 iOS 8.3   | 2014
 iOS 9.2   | 2015
+Android 4.1.2 (Jellybean) | 2012
 Android 4.4.2 (KitKat) | 2013
 Android 4.4.4 (KitKat) | 2013
 Android 6.0.1 (Marshmallow) | 2015
