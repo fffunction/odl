@@ -4,7 +4,7 @@ Device name | Browser     | OS          | OS Release | Screen resolution
 ----------- | ----------- | ----------- | ---------- | -----------------
 iPad Mini   | Safari 7.0  | iOS 7.0.3   | 2013       | 1024x768
 iPhone 5    | Safari 7.0  | iOS 7.1.1   | 2013       | 1136x640
-iPhone 5S   | Safari 8.0  | iOS 8.3     | 2014       | 1136x640
+iPhone 5S   | Safari 9.0  | iOS 9.3.1     | 2015       | 1136x640
 iPad Air    | Safari 8.0  | iOS 8.3     | 2014       | 2048x1536
 iPhone 6    | Safari 9.0  | iOS 9.2     | 2015       | 1334x750
 Samsung Galaxy SIII | Safari 4 | Android 4.1.2 (Jellybean) | 2012 | 720x1280
