@@ -13,6 +13,7 @@ HTC one mini | Chrome 11  | Android 4.4.2 (KitKat) | 2013 | 1280x720
 Nexus 4     | Chrome 41   | Android 4.4.4 (KitKat) | 2013 | 1280x768
 Nexus 7     | Chrome 47   | Android 4.4.4 (KitKat) | 2013 | 1280x800
 Nexus 5     | Chrome 53   | Android 6.0.1 (Marshmallow) | 2015 | 1920x1080
+Nexus 10    | Chrome 38   | Android 5.1.1 | 2014 | 1280x631
 Nokia Lumia 620 | Internet Explorer 11 | Windows Phone 8.1 | 2014 | 480x800
 
 
