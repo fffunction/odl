@@ -7,6 +7,7 @@ iPhone 5    | Safari 7.0  | iOS 7.1.1   | 2013       | 1136x640
 iPhone 5S   | Safari 9.0  | iOS 9.3.1     | 2015       | 1136x640
 iPad Air    | Safari 8.0  | iOS 8.3     | 2014       | 2048x1536
 iPhone 6    | Safari 9.0  | iOS 9.2     | 2015       | 1334x750
+Samsung Galaxy S6 |Samsung Internet 4.0 | Android 6.0.1 | 2015 | 1440x2560 (reports 980x1677)
 Samsung Galaxy SIII | Safari 4 | Android 4.1.2 (Jellybean) | 2012 | 720x1280
 HTC one mini | Chrome 11  | Android 4.4.2 (KitKat) | 2013 | 1280x720
 Nexus 4     | Chrome 41   | Android 4.4.4 (KitKat) | 2013 | 1280x768
