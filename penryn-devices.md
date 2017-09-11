@@ -1,32 +1,35 @@
 # Devices
 
-Device name | Browser     | OS          | OS Release | Screen resolution
------------ | ----------- | ----------- | ---------- | -----------------
-iPad Mini   | Safari 7.0  | iOS 7.0.3   | 2013       | 1024x768
-iPhone 5    | Safari 7.0  | iOS 7.1.1   | 2013       | 1136x640
-iPhone 5S   | Safari 9.0  | iOS 9.3.1     | 2015       | 1136x640
-iPad Air    | Safari 8.0  | iOS 8.3     | 2014       | 2048x1536
-iPhone 6    | Safari 9.0  | iOS 9.2     | 2015       | 1334x750
-Samsung Galaxy S6 |Samsung Internet 4.0 | Android 6.0.1 | 2015 | 1440x2560 (reports 980x1677)
-Samsung Galaxy SIII | Safari 4 | Android 4.1.2 (Jellybean) | 2012 | 720x1280
-HTC one mini | Chrome 11  | Android 4.4.2 (KitKat) | 2013 | 1280x720
-Nexus 4     | Chrome 41   | Android 4.4.4 (KitKat) | 2013 | 1280x768
-Nexus 7     | Chrome 47   | Android 4.4.4 (KitKat) | 2013 | 1280x800
-Nexus 5     | Chrome 53   | Android 6.0.1 (Marshmallow) | 2015 | 1920x1080
-Nexus 10    | Chrome 38   | Android 5.1.1 | 2014 | 1280x631
-Nokia Lumia 620 | Internet Explorer 11 | Windows Phone 8.1 | 2014 | 480x800
+Device name            | Browser              | OS                          | OS Release | Screen resolution
+-----------            | -----------          | -----------                 | ---------- | -----------------
+iPad Mini              | Safari 7.0           | iOS 7.0.3                   | 2013       | 1024x768
+iPhone 5S              | Safari 9.0           | iOS 9.3.1                   | 2015       | 1136x640
+iPad Air               | Safari 8.0           | iOS 8.3                     | 2014       | 2048x1536
+iPhone 6 *             | Safari 9.0           | iOS 9.2                     | 2015       | 1334x750
+Samsung Galaxy S6      | Samsung Internet 5.4, Chrome 60 | Android 6.0.1    | 2015       | 1440x2560 (reports 980x1677)
+Nexus 5                | Chrome 44            | Android 6.0.1 (Marshmallow) | 2015       | 1920x1080
+Nexus 7                | Chrome 60            | Android 4.4.4 (KitKat)      | 2013       | 1280x800
+Nexus 10               | Chrome 38            | Android 5.1.1               | 2014       | 1280x631
+Sony Xperia Z3 Compact | Chrome 43            | Android 5.1.1               | 2014       | 360x640
+Google Pixel           | Chrome               |                             |            | 1080x1920  
 
+* Russell's iPhone
 
 ## Out of commission
 
-Device name | Browser     | OS
------------ | ----------- | -----------
-Blackberry  | unknown     | unknown
-iPhone 4    | unknown     | unknown
-Samsung     | unknown     | unknown
-ZTE Firefox | unknown     | unknown
-HTC         | unknown     | unknown
-Nokia 6500  | unknown     | unknown
-HTC         | unknown     | unknown
-Amazon Kindle | unknown   | Fire OS 1
-iPhone 3GS  | unknown     | unknown
+Device name   | Browser     | OS
+-----------   | ----------- | -----------
+Blackberry    | unknown     | unknown
+iPhone 4      | unknown     | unknown
+Samsung       | unknown     | unknown
+ZTE Firefox   | unknown     | unknown
+HTC           | unknown     | unknown
+Nokia 6500    | unknown     | unknown
+HTC           | unknown     | unknown
+Amazon Kindle | unknown     | Fire OS 1
+iPhone 3GS    | unknown     | unknown
+iPhone 5      | Safari 7.0  | iOS 7.1.1
+Nexus 4       | Chrome 44   | Android 4.4.4
+Samsung Galaxy SIII  | unknown | Android 4.1.2 (Jellybean)
+HTC one mini  | Chrome 11   | Android 4.4.2 (KitKat)
+Nokia Lumia 620 | Internet Explorer 11 | Windows Phone 8.1
